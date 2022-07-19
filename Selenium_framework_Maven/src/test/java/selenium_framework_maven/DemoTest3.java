@@ -8,8 +8,12 @@ public class DemoTest3{
 		System.out.println("Test1");
 }
 	@Test
-	public void demoTset1() {
+	public void demoTestt1() {
 		System.out.println("Test2");
+	}
+	@Test
+	public void demoTest2() {
+		System.out.println("Test3");
 	}
 
 }
