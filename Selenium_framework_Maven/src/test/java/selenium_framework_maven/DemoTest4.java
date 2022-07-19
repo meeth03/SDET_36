@@ -2,7 +2,7 @@ package selenium_framework_maven;
 
 import org.testng.annotations.Test;
 @Test
-public class DemoTest2 {
+public class DemoTest4 {
 	
 		@Test
 		public void demoTest() {
