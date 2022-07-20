@@ -9,13 +9,18 @@ public class DemoTest3{
 }
 	@Test
 	public void demoTestt1() {
+		String BROWSER=System.getProperty("browser");
+		String URL=System.getProperty("url");
+		System.out.println("------->BROWSER"+BROWSER);
+		
+		
 		System.out.println("Test2");
 	}
 	@Test
 	public void demoTest2() {
 		System.out.println("Test3");
 		System.out.println("Test4");
-		System.out.println("Test55");
+		
 	}
 
 

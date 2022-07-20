@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="selenium_framework_maven.DemoTest2"/>
-      <class name="selenium_framework_maven.DemoTest"/>
+      <class name="selenium_framework_maven.DemoTest4"/>
+      <class name="selenium_framework_maven.DemoTest3"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
